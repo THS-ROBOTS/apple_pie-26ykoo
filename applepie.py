@@ -3,7 +3,7 @@ Kai Song
 Code Clash #1
 MIT License
 
-Difficulty: 0/10
+Difficulty: 10/10
 
 Jordan and I are baking apple pies. You will be given the number of pies I am baking.
 The amount of fat (grams) I gain is 2x the calories I eat, where x is the number of calories eaten.
@@ -26,7 +26,7 @@ class Solution:
         
         #TODO: write code to calculate how much fat I gained
         #get rid of the 'None" and return whatever you want to return
-        return None
+        return 2*20*pies
     
 #PLEASE DON'T TOUCH ANYTHING DOWN HERE :)))
 def main():
